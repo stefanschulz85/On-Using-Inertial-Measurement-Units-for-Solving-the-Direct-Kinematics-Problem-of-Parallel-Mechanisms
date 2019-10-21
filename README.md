@@ -3,7 +3,7 @@
 The video of the 3-RPR parallel mechanism can be found [here]. The video can be watched, for example, by downloading the entired project or by using this [download link]. The video can also be found on [my ResearchGate account].
 
 [here]:https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms/blob/master/Video.mp4
-[download link]:https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms-master.zip
+[download link]:https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms/archive/master.zip
 ______________________________________________________________________________________________________________________
 
 The direct kinematics problem of parallel mechanisms is the problem of finding the actual pose of the moveable manipulator platform with respect to the fixed base platform from the active joints' coordinates.
