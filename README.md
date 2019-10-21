@@ -1,6 +1,6 @@
 # On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms
 
-The video of the 3-RPR parallel mechanism can be found [here]. The video can be watched, for example, by downloading the entired project or by using this [download link]. The video can also be found on [my ResearchGate account].
+The video of the 3-RPR parallel mechanism can be found [here]. The video can be watched, for example, by downloading the entired project or by using this [download link].
 
 [here]:https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms/blob/master/Video.mp4
 [download link]:https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms/archive/master.zip
@@ -12,3 +12,11 @@ We investigate the accuracy and the computational efficiency of an IMU-based app
 By avoiding to measure the linear actuators' lengths and by using orientations instead, a comprehensive, low-cost sensor structure can be obtained that provides a unique solution for the direct kinematics problem.  
 As a representative example, we apply our approach to the planar 3-RPR parallel mechanism, where \underline{P} denotes active prismatic joints and R denotes passive revolute joints, and investigate the achievable accuracy and robustness on a specially designed experimental device. In this context, we also investigate the effect of sensor fusion on the achievable accuracy.
 Finally, we compare our results with those obtained from linear actuators' lengths when the Newton-Raphson algorithm is used to compute the manipulator platform's pose iteratively.
+
+
+
+______________________________________________________________________________________________________________________
+
+The project currently contains the following folders:
+- pictures
+- video
