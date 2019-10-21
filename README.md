@@ -17,7 +17,7 @@ Finally, we compare our results with those obtained from linear actuators' lengt
 
 Figure: Experimental prototype of the general planar 3-RPR parallel mechanism with IMUs mounted on the linear actuators and an Arduino Mega with a display integrated in the base to calculate and show the manipulator platform's pose.
 
-
+<img src="https://github.com/stefanschulz85/Assembly-Modes-of-a-3-RPR-parallel-Mechanism-when-Using-the-Linear-Actuators-Orientations/blob/master/pictures/Assembly_Modes_A.png" width="280" height="692" title="The two assembly modes (shown in blue and red) for the manipulator platform of the general planar 3-RPR parallel mechanism when using the linear actuators’ orientations.">
 ______________________________________________________________________________________________________________________
 
 The project currently contains the following folders:
