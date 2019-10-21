@@ -15,7 +15,7 @@ Finally, we compare our results with those obtained from linear actuators' lengt
 
 <img src="https://github.com/stefanschulz85/On-Using-Inertial-Measurement-Units-for-Solving-the-Direct-Kinematics-Problem-of-Parallel-Mechanisms/Prototype.png" width="478" height="286" title="Experimental prototype of the general planar 3-RPR parallel mechanism with IMUs mounted on the linear actuators and an Arduino Uno with a display integrated in the base to calculate and show the two assembly modes of the manipulator platform.">
 
-Figure 4: Experimental prototype of the general planar 3-RPR parallel mechanism with IMUs mounted on the linear actuators and an Arduino Mega with a display integrated in the base to calculate and show the manipulator platform's pose.
+Figure: Experimental prototype of the general planar 3-RPR parallel mechanism with IMUs mounted on the linear actuators and an Arduino Mega with a display integrated in the base to calculate and show the manipulator platform's pose.
 
 
 ______________________________________________________________________________________________________________________
